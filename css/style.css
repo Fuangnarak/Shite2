@@ -1,0 +1,43 @@
+body{ 
+    margin-top:0px; 
+    margin-left:0px;
+    background-color: white;
+    color: black;
+   }
+  
+  .divcl{
+    padding: 10px 12px;
+    background-color: white;
+  }
+  
+  #namecl{
+    color: #ffffff;
+  }
+  
+  hr {
+    border-style: dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 13px;
+    border-color: #ffd1dc;
+    width: 20%;
+  }
+  
+  img {
+    height: 150px;
+  }
+  
+  h1 {
+    margin-top:0px; 
+    margin-left:0px;
+    color: #000000;
+  }
+  
+  h3 {
+    color: #000000;
+  }
+  
+div {
+    background-color:#ff85a2 ;
+}
